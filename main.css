@@ -73,3 +73,25 @@ span {
   border-color: #919191;
   color:#919191;
 }
+@media (max-width: 700px) {
+  .container {
+  display: flex;
+  flex-direction: column;
+   }  
+   .column {
+    width: 400px;
+    margin-left: calc(50% - 200px);
+   }
+  }
+}
+@media (max-width: 460px) {
+  .container {
+  display: flex;
+  flex-direction: column;
+   }  
+   .column {
+    width: 200px;
+    margin-left: calc(50% - 100px);
+   }
+  }
+}

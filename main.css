@@ -1,0 +1,26 @@
+body {
+  display: inline-block;
+  width: 100%;
+  margin: 0;
+}
+main {
+  width: 100%;
+}
+
+.container {
+  width: 1000px;
+  display: flex;
+}
+.column {
+box-sizing: border-box;
+margin: 20px;
+}
+
+.main-title {
+  text-transform:;
+  color: #E15E4D;
+}
+img {
+  aspect-ratio: 1/1;
+}
+

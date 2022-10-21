@@ -9,6 +9,7 @@ Design: dizainas.png
 - simple design
 - HTML
 - CSS
+- Responsive design
 
 ## Authors
 Rasa: https://github.com/Rasosm

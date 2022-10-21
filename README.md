@@ -1,14 +1,14 @@
-## Test
+# Test
 Student project
 
 Site published at: rasosm.github.io/testas-dizainas/
 
 Design: dizainas.png
 
-# Project features
+## Project features
 - simple design
 - HTML
 - CSS
 
-# Authors
+## Authors
 Rasa: https://github.com/Rasosm

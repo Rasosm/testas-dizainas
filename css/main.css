@@ -30,6 +30,9 @@ img {
   padding: 40px;
   border-radius: 0.2em;
 }
+.picture {
+  filter: invert(100%);
+}
 .picture1 {
   background-color: #70C0C9;
 }
